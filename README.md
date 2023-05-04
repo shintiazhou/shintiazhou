@@ -10,9 +10,10 @@ I'm Shintia, a frontend developer based in Indonesia. I'm passionate about creat
 
 ## 📫 Contact
 ![Email](https://img.shields.io/badge/shintiazhouu28%40gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white)
-![GitHub](https://img.shields.io/badge/ShintiaZhou-gray?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/shintiazhou)
 [![LinkedIn](https://img.shields.io/badge/ShintiaZhou-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shintiazhou/)
-
+<br>
+[![GitHub](https://img.shields.io/badge/ShintiaZhou-gray?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shintiazhou)
+[![GitLab](https://img.shields.io/badge/ShintiaZhou-orange?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/shintiazhou)
 <br>
 
 ![CodeWars](https://www.codewars.com/users/shintiazhou/badges/large)
