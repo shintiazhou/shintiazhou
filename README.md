@@ -4,9 +4,9 @@
 I'm Shintia, a frontend developer based in Indonesia. I'm passionate about creating visually stunning and highly functional web applications using a range of technologies. My expertise includes using Next.js, React.js, HTML, CSS, Tailwind, and TypeScript.
 
 ## 🚀 Skills
-- Advanced: Tailwind CSS, React, Next.js.
-- Experienced: TypeScript, React Query, Axios, Context API, Storybook, Design System, ESLint, ES6, React Testing Library.
-- Other Related Skills: SQL Server, C#, Figma, Web Design, GraphQL, Vue, Svelte.
+- Tailwind CSS, React, Next.js.
+- TypeScript, React Query, Context API, ESLint, ES6, Vue, SvelteKit
+- Other Related Skills: SQL Server, C#, Figma, Web Design.
 
 ## 📫 Contact
 ![Email](https://img.shields.io/badge/shintiazhouu28%40gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white)
