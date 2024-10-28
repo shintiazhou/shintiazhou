@@ -11,12 +11,15 @@ I'm Shintia, a frontend developer based in Indonesia with a passion for building
 ## 📫 Contact
 ![Email](https://img.shields.io/badge/shintiazhouu28%40gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/ShintiaZhou-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shintiazhou/)
+[![Upwork](https://img.shields.io/badge/ShintiaZhou-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~019ef46e1d16309d13?mp_source=share)
+
 <br>
 [![GitHub](https://img.shields.io/badge/ShintiaZhou-gray?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shintiazhou)
 [![GitLab](https://img.shields.io/badge/ShintiaZhou-orange?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/shintiazhou)
 <br>
 [![Figma](https://img.shields.io/badge/ShintiaZhou-A259FF?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@shintiazhou)
 [![Dribbble](https://img.shields.io/badge/ShintiaZhou-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/shintia_zhou)
+
 <br>
 
 
