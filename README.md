@@ -15,6 +15,9 @@ I'm Shintia, a frontend developer based in Indonesia with a passion for building
 [![GitHub](https://img.shields.io/badge/ShintiaZhou-gray?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shintiazhou)
 [![GitLab](https://img.shields.io/badge/ShintiaZhou-orange?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/shintiazhou)
 <br>
+[![Figma](https://img.shields.io/badge/ShintiaZhou-A259FF?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@shintiazhou)
+[![Dribbble](https://img.shields.io/badge/ShintiaZhou-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/shintia_zhou)
+<br>
 
 
 
