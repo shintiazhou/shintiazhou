@@ -16,13 +16,19 @@ I'm Shintia, a frontend developer based in Indonesia. I'm passionate about creat
 [![GitLab](https://img.shields.io/badge/ShintiaZhou-orange?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/shintiazhou)
 <br>
 
+
+
 ![CodeWars](https://www.codewars.com/users/shintiazhou/badges/large)
+
 
 [![Shintia's GitHub stats](https://github-readme-stats.vercel.app/api?username=shintiazhou&theme=gruvbox)](https://github.com/shintiazhou/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shintiazhou&theme=onedark)](https://github.com/shintiazhou/github-profile-trophy)
+<a href="https://app.daily.dev/shintiazz"><img src="https://api.daily.dev/devcards/v2/7SozaWKTFVrxeM01JkBIe.png?type=default&r=735" width="356" alt="shintia's Dev Card"/></a>
 
 Thank you for visiting my profile! 😄
+
+
 <!--
 **shintiazhou/shintiazhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
